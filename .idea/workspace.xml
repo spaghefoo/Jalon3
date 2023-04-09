@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dedb1c74-920e-450c-a543-32e1a1d75fd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_21_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_debugger_2_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_tools_2_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarieTeamClientLourd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/BateauMarchandiseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/BateauTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/BateauVoyageurTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/DatabaseConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/EquipementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/PasserelleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/PdfMarieTeamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MarieTeamClientLourd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Bateau.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Bateau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/BateauMarchandise.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/BateauMarchandise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/BateauVoyageur.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/BateauVoyageur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/DatabaseConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Equipement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Equipement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Parametres.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Parametres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Passerelle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Passerelle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/PdfMarieTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/PdfMarieTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/ApplicationGestionnaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/ApplicationGestionnaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Bateau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Bateau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/BateauMarchandise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/BateauMarchandise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/BateauVoyageur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/BateauVoyageur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Equipement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Equipement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Parametres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Parametres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Passerelle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Passerelle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarieTeam/PdfMarieTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/PdfMarieTeam.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="excludeTargetFolder" value="false" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="2NbISqmkwshX9jXVODCSUKCPjX7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cours\Desktop\Jalon3\src\main\java\MarieTeam" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="MarieTeam" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MarieTeam">
+    <configuration name="MarieTeam" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="java dk 17.0.5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MarieTeam.ApplicationGestionnaire" />
+      <module name="MarieTeamClientLourd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BateauVoyageurTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarieTeamClientLourd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MarieTeam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MarieTeam" />
+      <option name="MAIN_CLASS_NAME" value="MarieTeam.BateauVoyageurTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BateauVoyageurTest.addEquipement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarieTeamClientLourd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MarieTeam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MarieTeam" />
+      <option name="MAIN_CLASS_NAME" value="MarieTeam.BateauVoyageurTest" />
+      <option name="METHOD_NAME" value="addEquipement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BateauVoyageurTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarieTeamClientLourd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MarieTeam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MarieTeam" />
+      <option name="MAIN_CLASS_NAME" value="MarieTeam.BateauVoyageurTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarieTeamClientLourd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MarieTeam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MarieTeam" />
+      <option name="MAIN_CLASS_NAME" value="MarieTeam.DatabaseConnectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseConnectionTest.closeConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarieTeamClientLourd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MarieTeam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MarieTeam" />
+      <option name="MAIN_CLASS_NAME" value="MarieTeam.DatabaseConnectionTest" />
+      <option name="METHOD_NAME" value="closeConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseConnectionTest.closeConnection" />
+        <item itemvalue="JUnit.DatabaseConnectionTest" />
+        <item itemvalue="JUnit.BateauVoyageurTest" />
+        <item itemvalue="JUnit.BateauVoyageurTest.addEquipement" />
+        <item itemvalue="JUnit.BateauVoyageurTest.testToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dedb1c74-920e-450c-a543-32e1a1d75fd6" name="Changes" comment="" />
+      <created>1679926359186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679926359186</updated>
+      <workItem from="1679926360485" duration="4227000" />
+      <workItem from="1679938991984" duration="3915000" />
+      <workItem from="1679946077492" duration="786000" />
+      <workItem from="1680542550975" duration="7147000" />
+      <workItem from="1680594462810" duration="1387000" />
+      <workItem from="1680597074974" duration="5829000" />
+      <workItem from="1680635377326" duration="1876000" />
+      <workItem from="1680718991015" duration="3329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

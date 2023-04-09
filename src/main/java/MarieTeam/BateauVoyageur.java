@@ -13,7 +13,7 @@ import java.util.ArrayList;
 * @author      Theophane LEGRAND
 */
 public class BateauVoyageur extends Bateau {
-    private ArrayList<Equipement> listeEquipements;
+    private ArrayList<Equipement> listeEquipements = new ArrayList<Equipement>();
 
     /**
      * Ajout d'une équipement dans un bateau voyageur
