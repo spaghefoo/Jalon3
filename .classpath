@@ -23,13 +23,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/cours/Desktop/class/pdfbox-2.0.27.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="https://javadoc.io/doc/org.apache.pdfbox/pdfbox/2.0.27/index.html"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/cours/Desktop/class/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/cours/Desktop/class/fontbox-2.0.27.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="https://javadoc.io/doc/org.apache.pdfbox/pdfbox/2.0.27/index.html"/>
 		</attributes>
