@@ -34,8 +34,6 @@
 			<attribute name="javadoc_location" value="https://javadoc.io/doc/org.apache.pdfbox/pdfbox/2.0.27/index.html"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/cours/Desktop/class/pdfbox-tools-2.0.27.jar"/>
-	<classpathentry kind="lib" path="C:/Users/cours/Downloads/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.junit.jupiter:junit-jupiter:5.9.2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.junit.jupiter:junit-jupiter-api:5.9.2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.opentest4j:opentest4j:1.2.0"/>

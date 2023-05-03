@@ -5,62 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dedb1c74-920e-450c-a543-32e1a1d75fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_21_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_debugger_2_0_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_tools_2_0_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarieTeamClientLourd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/BateauMarchandiseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/BateauTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/BateauVoyageurTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/DatabaseConnectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/EquipementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/PasserelleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarieTeam/PdfMarieTeamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MarieTeamClientLourd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/ApplicationGestionnaire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Bateau.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Bateau.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/BateauMarchandise.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/BateauMarchandise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/BateauVoyageur.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/BateauVoyageur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/DatabaseConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Equipement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Equipement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Parametres.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Parametres.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/Passerelle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/Passerelle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MarieTeam/PdfMarieTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MarieTeam/PdfMarieTeam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/ApplicationGestionnaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/ApplicationGestionnaire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Bateau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Bateau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/BateauMarchandise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/BateauMarchandise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/BateauVoyageur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/BateauVoyageur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/DatabaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Equipement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Equipement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Parametres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Parametres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/Passerelle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/Passerelle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarieTeam/PdfMarieTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarieTeam/PdfMarieTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,6 +190,8 @@
       <workItem from="1680597074974" duration="5829000" />
       <workItem from="1680635377326" duration="1876000" />
       <workItem from="1680718991015" duration="3329000" />
+      <workItem from="1681062993617" duration="762000" />
+      <workItem from="1683122547526" duration="62000" />
     </task>
     <servers />
   </component>
