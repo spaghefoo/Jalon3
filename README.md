@@ -1,2 +1,6 @@
-# Jalon3
-Epreuve E5 Jalon 3 BTS SIO
+# Client lourd création d'affiches promotionnelles pour les bateaux de la compangie MarieTeam (Jalon3 épreuve E5 BTS SIO)
+
+Client lourd fait en Java se connectant a la base de donnée SQL du site vitrine et permettant de générer et d'imprimer une affiche promotionnelle pour la flotte de bateau de MarieTeam, complété de ses tests unitaires faits avec JUnit Jupiter
+
+Voir démonstration [ici]()
+
